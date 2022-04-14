@@ -21,10 +21,7 @@ export class User {
 
   @Prop({ required: false })
   favourite_band: string;
-<<<<<<< HEAD
-=======
-
->>>>>>> 2bdcbc973b24143756e48ebaf1b3f556f33cd517
+  
   @Prop({ required: false })
   birthdate: Date;
 }
